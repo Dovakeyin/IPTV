@@ -10,6 +10,7 @@ CCTV1,http://27.184.18.122:4022/rtp/239.254.200.45:8008
 CCTV2,http://27.184.18.122:4022/rtp/239.254.200.158:6000
 CCTV2,http://jltpc.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://110.191.246.220:8888/udp/239.93.1.11:2223
+CCTV4,http://60.168.18.22:8888/rtp/238.1.78.236:7760
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV6,http://111.193.230.155:8888/rtp/239.3.1.174:8001
@@ -32,7 +33,8 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=16359
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-
+海峡卫视,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hxwshd4m/4000000/mnf.m3u8
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 地方台,#genre#
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
