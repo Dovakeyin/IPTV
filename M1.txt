@@ -276,6 +276,79 @@ WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c
 時代劇専門,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 衛星劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
 
+美国,#genre#
+ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+FOXNEWS,https://lnc-kcpq.tubi.video/index_3.m3u8
+NBC News NOW,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+FOX Weather,https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+ CBC News International,https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
+ TODAY All Day,https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
+TYT Network,https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
+Lucky Dog,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
+The Bob Ross Channel,https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
+Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+Shout! Factory,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
+Dove Channel,https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
+Cowboy Way,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+Hollywire,https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
+Worlds Most Evil Killers,https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
+Crime ThrillHer,https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
+Crimes Cults Killers,https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
+IMPACT Wrestling,https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
+Home Refresh,https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
+BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+ViX JaJaJa,https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+Tastemade,https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
+FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+CNN News,https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+好莱坞制造,https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+CNN USA,http://38.44.109.41:8888/play/a00d
+Bounce,http://72.46.118.193/Bounce/index.m3u8
+Grit,http://72.46.118.193/Grit/index.m3u8
+Laff,http://72.46.118.193/Laff/index.m3u8
+Defy,http://72.46.118.193/Defy/index.m3u8
+Court,http://72.46.118.193/Court/index.m3u8
+Newsy,http://72.46.118.193/Newsy/index.m3u8
+UTV,http://173.225.32.123/UTV-2362/index.m3u8
+KELO,http://173.225.32.123/KELO-2361/index.m3u8
+CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+Bravo,http://170.254.18.106/BRAVO/index.m3u8
+OAN,https://stream.ads.ottera.tv/playlist.m3u8?network_id=23
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=56
+Logo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/952
+Me TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+NASA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1610
+Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+Nat Geo Wild,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
+NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+Outdoor Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/292
+PBS KIDS,http://streamsy.online:2999/coachj88/N93DPKS9pJ/227
+Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+Showtime,http://streamsy.online:2999/coachj88/N93DPKS9pJ/223
+Showtime Women,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1251
+SNY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+Start TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+The Weather Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+Universal Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+WE TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+Showtime Beyond,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1619
+WWE,http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
+ABC Phoenix,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1233
+Mega TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/124
+
 国际频道,#genre#
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
