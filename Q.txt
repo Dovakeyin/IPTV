@@ -327,4 +327,5 @@ AXN台湾,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MA1A835822508358225
 
 作者,#genre#
 大笨梦,#genre#
-QQ275198024,#genre#
+QQ,#genre#
+275198024,#genre#
