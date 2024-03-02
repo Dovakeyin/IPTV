@@ -149,6 +149,14 @@ CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
 枣庄教育频道,http://stream.zztvzd.com/2/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 QTV-1,http://yt.xypxe.com:9901/tsfile/live/1011_1.m3u8
 QTV-2,http://yt.xypxe.com:9901/tsfile/live/1012_1.m3u8
 QTV-3,http://yt.xypxe.com:9901/tsfile/live/1013_1.m3u8
