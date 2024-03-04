@@ -143,7 +143,6 @@ QTV-5,http://yt.xypxe.com:9901/tsfile/live/1015_1.m3u8
 QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 
 港澳台,#genre#
-HBO HD,http://ali.hlspull.yximgs.com/live/hbohd_twnt3a88221300-dhoadhlabhkkl.flv
 好莱坞电影台,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 澳门莲花台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 1905电影(国际),http://web8398.hk10.epep.eu.org/1905.php?id=1905a
