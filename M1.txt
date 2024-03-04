@@ -167,7 +167,6 @@ HOY 资讯台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfn
 台视台,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
 民视台,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
 中视台,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-华视台,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
 TVBS台,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 民视新闻台,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
@@ -190,14 +189,6 @@ TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxz
 龙华洋片台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
 AXN台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
 东森戏剧台,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-龙龙fun,http://ali.hlspull.yximgs.com/live/longlongt3a88221300-dhoadhlabhkkl.flv
-天映CM+,http://ali.hlspull.yximgs.com/live/cmjia4568264t3a88221300-dhoadhlabhkkl.flv
-美亚电影(粤),http://ali.hlspull.yximgs.com/live/myyyydyt3a88221300-dhoadhlabhkkl.flv
-美亚电影(国),http://ali.hlspull.yximgs.com/live/meiydyt3a88221300-dhoadhlabhkkl.flv
-Now 星影台,http://ali.hlspull.yximgs.com/live/nowxyot3a88221300-dhoadhlabhkkl.flv
-Now 爆谷台,http://ali.hlspull.yximgs.com/live/nowbgggggt3a88221300-dhoadhlabhkkl.flv
-ROCK 娱乐台,http://ali.hlspull.yximgs.com/live/ROCKEntertainmentt3a88221300-dhoadhlabhkkl.flv
-ROCK 电影台,http://ali.hlspull.yximgs.com/live/ROCKActionttt3a88221300-dhoadhlabhkkl.flv
 
 日本专区,#genre#
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
