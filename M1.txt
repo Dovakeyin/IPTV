@@ -149,12 +149,6 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 1905电影(亚洲),http://web8398.hk10.epep.eu.org/1905.php?id=1905b
 1905电影(亚洲),http://114.132.99.29:24110/SMYS/1905.php?id=1905b
 1905电影(国际),http://114.132.99.29:24110/SMYS/1905.php?id=1905a
-TVB 亚洲剧台,http://ali.hlspull.yximgs.com/live/tvbyazhoujut3a88221300-dhoadhlabhkkl.flv
-TVB 功夫台(国),http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-dhoadhlabhkkl.flv
-TVB 功夫台(粵),http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-dhoadhlabhkkl.flv
-TVB 黄金华剧台,http://ali.hlspull.yximgs.com/live/tvbhjhjjjhyt3a88221300-dhoadhlabhkkl.flv
-TVB 经典台,http://ali.hlspull.yximgs.com/live/tvbqxjjjdd3a88221300-dhoadhlabhkkl.flv
-TVB 黄金翡翠台,http://ali.hlspull.yximgs.com/live/huangjinfeicuit3a88221300-dhoadhlabhkkl.flv
 TVB 功夫台(粤),http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB 星河台(粤)http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB 华丽翡翠台(粤),http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
