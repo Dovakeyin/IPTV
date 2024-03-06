@@ -226,6 +226,6 @@ iHOT,#genre#
 
 作者,#genre#
 大笨梦,#genre#
-QQ,#genre#
-275198024,#genre#
+QQ群,#genre#
+217386438,#genre#
 
