@@ -84,23 +84,6 @@ CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
 特色频道,#genre#
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
-电视指南,http://113.9.171.201:88/hls/163/index.m3u8
-风云音乐,http://113.9.171.201:88/hls/113/index.m3u8
-第一剧场,http://119.123.216.156:808/hls/98/index.m3u8
-世界地理,http://113.9.171.201:88/hls/118/index.m3u8
-怀旧剧场,http://119.123.216.156:808/hls/92/index.m3u8
-女性时尚,http://119.123.216.156:808/hls/12/index.m3u8
-风云剧场,http://119.123.216.156:808/hls/95/index.m3u8
-兵器科技,http://119.123.216.156:808/hls/21/index.m3u8
-风云足球,http://119.123.216.156:808/hls/133/index.m3u8
-央视台球,http://119.123.216.156:808/hls/73/index.m3u8
-央视文化精品,http://113.9.171.201:88/hls/161/index.m3u8
-高尔夫网球,http://119.123.216.156:808/hls/174/index.m3u8
-凤凰中文,http://110.72.66.59:808/hls/83/index.m3u8
-凤凰资讯,http://110.72.66.59:808/hls/1/index.m3u8
-凤凰香港,http://110.72.66.59:808/hls/333/index.m3u8
-邵氏影院,http://43.138.170.29:35455/douyu/4246519
-迪斯尼动画,http://51.83.238.223:16274/
 
 地方台,#genre#
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
