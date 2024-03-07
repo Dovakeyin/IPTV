@@ -124,6 +124,9 @@ QTV-3,http://yt.xypxe.com:9901/tsfile/live/1013_1.m3u8
 QTV-4,http://yt.xypxe.com:9901/tsfile/live/1014_1.m3u8
 QTV-5,http://yt.xypxe.com:9901/tsfile/live/1015_1.m3u8
 QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
+湖南经视,http://175.4.83.122:8888/udp/239.76.245.116:1234
+湖南公共,http://175.4.83.122:8888/udp/239.76.245.123:1234
+湖南电影,http://175.4.83.122:8888/udp/239.76.245.119:1234
 
 港澳台,#genre#
 TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
