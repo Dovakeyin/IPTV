@@ -55,6 +55,7 @@ CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
 农林卫视,http://60.211.167.226:8888/newlive/live/hls/51/live.m3u8
 厦门卫视,http://60.211.167.226:8888/newlive/live/hls/52/live.m3u8
 海峡卫视,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hxwshd4m/4000000/mnf.m3u8
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
 联通卫视,#genre#
 湖南卫视,http://121.19.134.126:808/hls/30/index.m3u8
