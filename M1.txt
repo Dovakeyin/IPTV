@@ -654,6 +654,9 @@ https://hnzy.bfvvs.com/play/Pdy4pmzb/index.m3u8
 Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84gp61a7n0ms.mp4
 盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost
 你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+Now 爆谷台,http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
+美亚电影(粤),http://ali.hlspull.yximgs.com/live/myyyydyt3a888221300-cfuu78258.flv
+天映经典 高清,http://171.110.198.59:8181/tsfile/live/1063_1.m3u8
 
 作者,#genre#
 大笨梦,#genre#
