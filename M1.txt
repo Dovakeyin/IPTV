@@ -86,6 +86,7 @@ CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
 特色频道,#genre#
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
+邵氏影院,http://43.138.170.29:35455/douyu/4246519
 
 地方台,#genre#
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
