@@ -118,7 +118,7 @@ CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东体育,http://113.120.46.233:8123/udp/239.21.1.141:5002
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 QTV-1,http://yt.xypxe.com:9901/tsfile/live/1011_1.m3u8
 QTV-2,http://yt.xypxe.com:9901/tsfile/live/1012_1.m3u8
