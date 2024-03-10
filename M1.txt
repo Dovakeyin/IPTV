@@ -146,7 +146,6 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 TVB 明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 TVB 星河台(国),http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-TVB 无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 TVB 财经体育资1台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
 TVB 财经体育资2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 VIU TV6台,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
@@ -196,6 +195,20 @@ HOY资讯频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvnd
 香港卫视文旅,https://epg.pw/stream/7cbda7050cd5ab5eed508b1f8d71624178238d4540c72e6f191a145534a1c012.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 天映电影,http://120.84.121.11:808/hls/85/index.m3u8
+無綫新聞全网,http://hksc.vnetidc.hk:61282/bysid/83
+無綫財經全网,http://hksc.vnetidc.hk:61282/bysid/85
+翡翠频道全网,http://hksc.vnetidc.hk:61281/bysid/1
+明珠频道全网,http://hksc.vnetidc.hk:61282/bysid/2
+香港J2频全网,http://hksc.vnetidc.hk:61282/bysid/82
+HOY國際全网,http://hksc.vnetidc.hk:61283/bysid/76
+*HOYT频全网,http://hksc.vnetidc.hk:61283/bysid/77
+*HOYy資全网,http://hksc.vnetidc.hk:61283/bysid/78
+港台電31全网,http://hksc.vnetidc.hk:61284/bysid/31
+港台電32全网,http://hksc.vnetidc.hk:61284/bysid/32
+ViuTVsix全网,http://hksc.vnetidc.hk:61281/bysid/96
+ViuTV频全网,http://hksc.vnetidc.hk:61281/bysid/99
+中央電視全网,http://hksc.vnetidc.hk:61284/bysid/33
+中國環球全网,http://hksc.vnetidc.hk:61284/bysid/34
 
 日本专区,#genre#
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
