@@ -684,6 +684,10 @@ https://hnzy.bfvvs.com/play/Pdy4pmzb/index.m3u8
 贝爷影厅,http://159.75.85.63:35455/douyu/252802
 译制国语,http://159.75.85.63:35455/douyu/2436390
 
+测试频道,#genre#
+博斯无限台,mitv://generationnexxxt.com:19806/aa2cc409abbe4130a4e0698e57b232cb
+博斯无限二台,mitv://generationnexxxt.com:19806/264fe420f39940bc9c88501f0f54e317
+
 加台联系,#genre#
 作者,#genre#
 大笨梦,#genre#
