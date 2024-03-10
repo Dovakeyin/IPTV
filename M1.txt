@@ -212,6 +212,7 @@ ViuTV频全网,http://hksc.vnetidc.hk:61281/bysid/99
 爱尔达体育1,http://ali.hlspull.yximgs.com/live/twlivezezpzxcvzpzozdxcvdzozdzpoedhopzfvxczhetouhzzvzzztyy.flv
 爱尔达体育3,http://ali.hlspull.yximgs.com/live/twlivecxvpzeyzdcxozvmzlzbtzwzhozudscbcxozcvmnfuzlbhhztys.flv
 爱尔达体育4,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzlys.flv
+爱尔达影剧,http://50.7.238.114:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 
 日本专区,#genre#
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
