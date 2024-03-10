@@ -209,6 +209,9 @@ ViuTVsix全网,http://hksc.vnetidc.hk:61281/bysid/96
 ViuTV频全网,http://hksc.vnetidc.hk:61281/bysid/99
 中央電視全网,http://hksc.vnetidc.hk:61284/bysid/33
 中國環球全网,http://hksc.vnetidc.hk:61284/bysid/34
+爱尔达体育1,http://ali.hlspull.yximgs.com/live/twlivezezpzxcvzpzozdxcvdzozdzpoedhopzfvxczhetouhzzvzzztyy.flv
+爱尔达体育3,http://ali.hlspull.yximgs.com/live/twlivecxvpzeyzdcxozvmzlzbtzwzhozudscbcxozcvmnfuzlbhhztys.flv
+爱尔达体育4,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzlys.flv
 
 日本专区,#genre#
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
