@@ -288,15 +288,11 @@ HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C57543
 HOY资讯频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 香港卫视文旅,https://epg.pw/stream/7cbda7050cd5ab5eed508b1f8d71624178238d4540c72e6f191a145534a1c012.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-天映电影,http://120.84.121.11:808/hls/85/index.m3u8
-無綫新聞全网,http://hksc.vnetidc.hk:61282/bysid/83
-無綫財經全网,http://hksc.vnetidc.hk:61282/bysid/85
-翡翠频道全网,http://hksc.vnetidc.hk:61281/bysid/1
-明珠频道全网,http://hksc.vnetidc.hk:61282/bysid/2
-香港J2频全网,http://hksc.vnetidc.hk:61282/bysid/82
-HOY國際全网,http://hksc.vnetidc.hk:61283/bysid/76
-*HOYT频全网,http://hksc.vnetidc.hk:61283/bysid/77
-*HOYy資全网,http://hksc.vnetidc.hk:61283/bysid/78
+天映经典,https://epg.pw/stream/19e99acdf7d7efdb37cd76a0256ef5751c65b7eb58a5a24e617cf78d8fc24d9f.ctv
+天映经典,https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.ctv
+天映頻道,https://epg.pw/stream/13d82adf9559fe4d638b034948d2ef0b2dfef376d175da601585565bb4b13d47.ctv
+天映頻道,https://epg.pw/stream/523ec66a32270de1605c8f8f0f5130031b1d260bbab58e7ec52bdfe1a5a6ead5.ctv
+天映頻道,https://epg.pw/stream/e6e326ff18624c5a513d9663ed91a0aae2c5d30a6baca900796bb58f2a619f94.m3u8
 港台電31全网,http://hksc.vnetidc.hk:61284/bysid/31
 港台電32全网,http://hksc.vnetidc.hk:61284/bysid/32
 ViuTVsix全网,http://hksc.vnetidc.hk:61281/bysid/96
@@ -1161,6 +1157,10 @@ yy-电影7,http://mmitv.top/pltv/yy.php?id=24066336
 好消息,https://epg.pw/stream/e3823ebcbb226f0ca9bf92c0d893109277baef872c9ba9a6d4f60078318770a1.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+
+测试频道,#genre#
+三立台湾台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
+美亚电影台,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
 
 加台联系,#genre#
 作者,#genre#
