@@ -107,7 +107,7 @@ CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 
 特色卫视,#genre#
-海峡卫视,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hxwshd4m/4000000/mnf.m3u8
+海峡卫视,http://123.184.27.215/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
 特色频道,#genre#
