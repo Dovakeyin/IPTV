@@ -351,6 +351,13 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 枣庄教育频道,http://stream.zztvzd.com/2/sd/live.m3u8
 
 港澳台,#genre#
+私人影院,http://171.108.74.187:8181/tsfile/live/1007_1.m3u8
+天映经典电影,http://171.108.74.187:8181/tsfile/live/1008_1.m3u8
+东森洋片,http://171.108.74.187:8181/tsfile/live/1009_1.m3u8
+东森电影,http://171.108.74.187:8181/tsfile/live/1010_1.m3u8
+AXN动作电影,http://171.108.74.187:8181/tsfile/live/1011_1.m3u8
+好莱坞电影,http://171.108.74.187:8181/tsfile/live/1012_1.m3u8
+龙翔电影,http://171.108.74.187:8181/tsfile/live/1013_1.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
