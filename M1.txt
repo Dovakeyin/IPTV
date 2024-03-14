@@ -306,6 +306,12 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 浙江经济生活[1920x1080],https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道[1920x1080],https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+苏州,#genre#
+苏州新闻综合频道,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+苏州社会经济频道,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+苏州文化生活频道,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+苏州生活资讯频道,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+
 深圳,#genre#
 深圳卫视,http://nas147.myds.me:8888/udp/239.77.0.130:5146
 深圳都市,http://nas147.myds.me:8888/udp/239.77.1.176:5146
@@ -429,7 +435,7 @@ TVB娱乐新闻台,http://ali.hlspull.yximgs.com/live/3388e0e97af012a7ea77bed7b2
 东森亚洲卫视,http://ali.hlspull.yximgs.com/live/b005341681755f15f17d8ca292d1044e.flv
 东森财经新闻,http://ali.hlspull.yximgs.com/live/5172b561830e412c791ef8f11a095989.flv
 东森电影,http://ali.hlspull.yximgs.com/live/7ea13f7789cf8772895a5873b715c1dc.flv
-东森洋片,http://ali.hlspull.yximgs.com/live/705bbc7013fb511e60089ec34faac1da.flv
+东森洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
 东森戏剧,http://ali.hlspull.yximgs.com/live/7532143bfac36a6b3dcbd3e312990a45.flv
 MOMO综合台,http://ali.hlspull.yximgs.com/live/8464d4f13b9bb200a8dbe232fd067c12.flv
 MOMO台,http://ali.hlspull.yximgs.com/live/90313fa8485e05a79e9e7dfaf327d52e.flv
