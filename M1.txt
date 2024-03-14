@@ -378,20 +378,6 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 港澳台,#genre#
 翡翠台,http://ali.hlspull.yximgs.com/live/8acceacc8ac8b6d5c78b6b52af441efb.flv
 明珠台,http://ali.hlspull.yximgs.com/live/d026d980c0d0630fd43cd00fe15d3282.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/9a7f365cfda70c532348342898a8a353.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/9a7f365cfda70c532348342898a8a353.flv
-HOY资讯台,http://ali.hlspull.yximgs.com/live/313debc8d9d6adc7ca10ed0c710bd56a.flv
-NOW华剧台,http://ali.hlspull.yximgs.com/live/7a98b3c6da9c82063c48df6b92d577a9.flv
-NOW新闻台,http://ali.hlspull.yximgs.com/live/a3f02f3417601aed04e0eb6da9fdabf8.flv
-NOW直播台,http://ali.hlspull.yximgs.com/live/64a05a74141514d02458aeebe88b334c.flv
-NOW财经台,http://ali.hlspull.yximgs.com/live/f399a7cc669ade04108ee57f16897122.flv
-功夫台,http://ali.hlspull.yximgs.com/live/d10770c83b070ccd493bede3881cf895.flv
-凤凰电影,http://ali.hlspull.yximgs.com/live/ead2d38c81f0d97a7d519869ae2fc0fd.flv
-龙祥电影,http://ali.hlspull.yximgs.com/live/d738b9fa61759891d2b9a0391de0592e.flv
-天映经典,http://ali.hlspull.yximgs.com/live/c520b00886e3423fc5c47ada1d71156e.flv
-香港国际,http://ali.hlspull.yximgs.com/live/cw19PeILAnAFoGf68YLs91S7wxNRNekb.flv
-HOY资讯台,http://ali.hlspull.yximgs.com/live/313debc8d9d6adc7ca10ed0c710bd56a.flv
-无线卫星亚洲台,http://ali.hlspull.yximgs.com/live/4ef6a2ccb9cc4250a6c5fc38dcaebeef.flv
 ViU TV,http://ali.hlspull.yximgs.com/live/6ff04b09d7c60b89fee6203f86271d9c.flv
 ViU TV6,http://ali.hlspull.yximgs.com/live/0282b0ae0c5a9da40fd28056f53ec31d.flv
 RTHK31,http://ali.hlspull.yximgs.com/live/c79578eed70ddef7cc77dc7d7ad55ad9.flv
