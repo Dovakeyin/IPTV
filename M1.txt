@@ -351,6 +351,7 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 枣庄教育频道,http://stream.zztvzd.com/2/sd/live.m3u8
 
 港澳台,#genre#
+翡翠台,http://108.165.240.85/jspd.php?id=1
 私人影院,http://171.108.74.187:8181/tsfile/live/1007_1.m3u8
 天映经典电影,http://171.108.74.187:8181/tsfile/live/1008_1.m3u8
 东森洋片,http://171.108.74.187:8181/tsfile/live/1009_1.m3u8
