@@ -404,13 +404,11 @@ TVB娱乐新闻台,http://ali.hlspull.yximgs.com/live/3388e0e97af012a7ea77bed7b2
 民视旅游台,http://ali.hlspull.yximgs.com/live/35459a5068fb33563eb0f7b3db0b9d44.flv
 民视综艺台,http://ali.hlspull.yximgs.com/live/0b4c4b6de512660afa22896b36d926c6.flv
 台视新闻,http://ali.hlspull.yximgs.com/live/30166f6b6811d74a36afc92d80f1803f.flv
-台视,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/afd7b4badb79ef16153f7aee4a3f760a.flv
 台视财经,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/e719bd644907359de954a88eb98ff572.flv
 台湾戏剧台,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/68aec48f22c74c04364d7ad859f7e29c.flv
 华视,http://ali.hlspull.yximgs.com/live/eab8013677af364f4a31fc1b3783bb8a.flv
 华视新闻资讯,http://ali.hlspull.yximgs.com/live/1ee11d8a960928a83a305e2b270f7925.flv
 霹雳台湾台,http://ali.hlspull.yximgs.com/live/e5b22eec155ecbd91bbee9ed0212ec7e.flv
-壹新闻,http://ali.hlspull.yximgs.com/live/3OX1o5JN3gvs1GrLi25oGunvydOmfuqb.flv
 年代新闻,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/273790baa2c0ad9127572e42d8556bb7.flv
 东森新闻,http://ali.hlspull.yximgs.com/live/745a6d5691071f7b17c55a4288746739.flv
 非凡商业,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/5e9b7a4d6f84381a9afad8b6cfe0287d.flv
@@ -427,7 +425,6 @@ TVB娱乐新闻台,http://ali.hlspull.yximgs.com/live/3388e0e97af012a7ea77bed7b2
 东森电影,http://ali.hlspull.yximgs.com/live/7ea13f7789cf8772895a5873b715c1dc.flv
 东森洋片,http://ali.hlspull.yximgs.com/live/705bbc7013fb511e60089ec34faac1da.flv
 东森戏剧,http://ali.hlspull.yximgs.com/live/7532143bfac36a6b3dcbd3e312990a45.flv
-东森幼幼,http://ali.hlspull.yximgs.com/live/Xb4wUaUuaj3ua4lebugatWp5BebyTkME.flv
 MOMO综合台,http://ali.hlspull.yximgs.com/live/8464d4f13b9bb200a8dbe232fd067c12.flv
 MOMO台,http://ali.hlspull.yximgs.com/live/90313fa8485e05a79e9e7dfaf327d52e.flv
 龙祥时代,http://ali.hlspull.yximgs.com/live/fffc368c2db0d84d5bd633c0e3658e0c.flv
@@ -439,7 +436,6 @@ MOMO台,http://ali.hlspull.yximgs.com/live/90313fa8485e05a79e9e7dfaf327d52e.flv
 三立都会台,http://ali.hlspull.yximgs.com/live/c24bfc8cc9384edff15e3e88673ae915.flv
 三立综合台,http://ali.hlspull.yximgs.com/live/5300a4ac9df3fa8f693802d3568c8c6f.flv
 三立台湾台,http://ali.hlspull.yximgs.com/live/3e47c3e07df343a53e24a5762c6a92dc.flv
-三立戏剧台,http://ali.hlspull.yximgs.com/live/xB55vMNKiIlYSp4R8nNdzOKTbucn8xPN.flv
 三立新闻台,http://ali.hlspull.yximgs.com/live/adb846567c84a683e18026e60814e29c.flv
 三立iNEWS,http://ali.hlspull.yximgs.com/live/bed5d0a173e26fea68523b509a486338.flv
 LIVE三立,http://ali.hlspull.yximgs.com/live/e325518e95d40efbd874f82ca71c9bfb.flv
@@ -447,9 +443,6 @@ LIVE三立,http://ali.hlspull.yximgs.com/live/e325518e95d40efbd874f82ca71c9bfb.f
 中天综合,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/9690d30096a06a759d0c3412fbeff319.flv
 中天娱乐,http://news-sim-cap-matrix-live-play.5club.cctv.cn/live/de2e5bb58ba24c05aa3ffb2e13f17fce.flv
 纬来综合,http://ali.hlspull.yximgs.com/live/d6a85470dbd7feb296d32936007a4bae.flv
-纬来戏剧,http://ali.hlspull.yximgs.com/live/84d13d459612a4397b5f3f41d80d5be9.flv
-纬来日本,http://ali.hlspull.yximgs.com/live/059d783f6d7779b7c811db54d719833b.flv
-纬来电影,http://ali.hlspull.yximgs.com/live/5f368e7120badba902553fdbf07ed6f8.flv
 八大第一台,http://ali.hlspull.yximgs.com/live/b9e7047517e348eed092182770830cc4.flv
 八大戏剧台,http://ali.hlspull.yximgs.com/live/82f63033829a3a2f6895f7795728a1d1.flv
 八大综合台,http://ali.hlspull.yximgs.com/live/929d624064d5134dfa9c3b44ab89b4be.flv
@@ -468,7 +461,6 @@ TVBS HD,http://ali.hlspull.yximgs.com/live/7ba1bd53b026feac2f2f2dcff8210f41.flv
 靖天戏剧台,http://ali.hlspull.yximgs.com/live/00457cc7eceefd1c8c68179ea9264b93.flv
 靖天映画,http://ali.hlspull.yximgs.com/live/9d616381571b29bc557485829402f981.flv
 靖天欢乐台,http://ali.hlspull.yximgs.com/live/d5a6919f58d9d7201897dd35940e1da7.flv
-华艺综合台,http://ali.hlspull.yximgs.com/live/IpE9kBtA8duSBXOFkeWdwYRTqutF0x9C.flv
 ELTA影剧,http://ali.hlspull.yximgs.com/live/1a1ac9841190124afb33a17e3ca292d1.flv
 ELTA娱乐,http://ali.hlspull.yximgs.com/live/106a4cc9c71d116ac51c7795aeabafa7.flv
 美亚电影台,http://ali.hlspull.yximgs.com/live/d718fbae89a80e572f12a1e69407228a.flv
