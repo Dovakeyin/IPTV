@@ -394,7 +394,6 @@ Love 4K Nature,http://108.165.240.85/jspd.php?id=42
 台视综合,http://108.165.240.85/jspd.php?id=48
 民视台湾台HD,http://108.165.240.85/jspd.php?id=49
 民视第一台,http://108.165.240.85/jspd.php?id=50
-三立综合台,http://108.165.240.85/jspd.php?id=51
 三立台湾台,http://108.165.240.85/jspd.php?id=52
 三立戏剧台,http://108.165.240.85/jspd.php?id=53
 三立都会台,http://108.165.240.85/jspd.php?id=54
@@ -414,7 +413,6 @@ CN卡通频道,http://108.165.240.85/jspd.php?id=65
 亚洲旅游台,http://108.165.240.85/jspd.php?id=71
 ELTA体育4台,http://108.165.240.85/jspd.php?id=72
 寰宇新闻台,http://108.165.240.85/jspd.php?id=76
-TVBS,http://108.165.240.85/jspd.php?id=77
 TVBS新闻台,http://108.165.240.85/jspd.php?id=78
 三立新闻台,http://108.165.240.85/jspd.php?id=79
 中视新闻,http://108.165.240.85/jspd.php?id=80
@@ -429,7 +427,6 @@ TVBS新闻台,http://108.165.240.85/jspd.php?id=78
 龙华戏剧,http://108.165.240.85/jspd.php?id=90
 龙华偶像,http://108.165.240.85/jspd.php?id=91
 龙华洋片,http://108.165.240.85/jspd.php?id=92
-龙华电影,http://108.165.240.85/jspd.php?id=93
 美亚电影台2,http://108.165.240.85/jspd.php?id=94
 HBO,http://108.165.240.85/jspd.php?id=95
 HBO 2,http://108.165.240.85/jspd.php?id=96
@@ -444,6 +441,7 @@ CINEMAX,http://108.165.240.85/jspd.php?id=98
 香港台,http://108.165.240.85/jspd.php?id=123
 TVB星河2,http://108.165.240.85/jspd.php?id=124
 
+港澳台（备）,#genre#
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
