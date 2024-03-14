@@ -408,6 +408,9 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 EZTV 1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV 2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 EZTV 6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+NOW英超,http://8.134.254.104:9999/channel/7962cbfa/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
+NOW爆谷,http://8.134.254.104:9999/channel/n7142cd1f/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
+NOW星影,http://8.134.254.104:9999/channel/n7174e740/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
 
 日本专区,#genre#
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
