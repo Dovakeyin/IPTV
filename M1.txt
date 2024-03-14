@@ -380,14 +380,70 @@ NOW新闻台,http://108.165.240.85/jspd.php?id=27
 NOW财经台,http://108.165.240.85/jspd.php?id=28
 NOW爆谷星影,http://108.165.240.85/jspd.php?id=29
 NOW爆谷,http://108.165.240.85/jspd.php?id=30
+NOW Sports,http://108.165.240.85/jspd.php?id=31
+ROCK,http://108.165.240.85/jspd.php?id=32
+ROCK ACTION,http://108.165.240.85/jspd.php?id=33
+fashion BOX,http://108.165.240.85/jspd.php?id=36
+Love Nature,http://108.165.240.85/jspd.php?id=40
+TVN,http://108.165.240.85/jspd.php?id=41
+Love 4K Nature,http://108.165.240.85/jspd.php?id=42
+民视HD,http://108.165.240.85/jspd.php?id=43
+台视HD,http://108.165.240.85/jspd.php?id=44
+中视新闻HD,http://108.165.240.85/jspd.php?id=45
+华视HD,http://108.165.240.85/jspd.php?id=46
+台视综合,http://108.165.240.85/jspd.php?id=48
+民视台湾台HD,http://108.165.240.85/jspd.php?id=49
+民视第一台,http://108.165.240.85/jspd.php?id=50
+三立综合台,http://108.165.240.85/jspd.php?id=51
+三立台湾台,http://108.165.240.85/jspd.php?id=52
+三立戏剧台,http://108.165.240.85/jspd.php?id=53
+三立都会台,http://108.165.240.85/jspd.php?id=54
+八大综合台,http://108.165.240.85/jspd.php?id=55
+八大第一台,http://108.165.240.85/jspd.php?id=56
+八大戏剧台,http://108.165.240.85/jspd.php?id=57
+ELTA综合,http://108.165.240.85/jspd.php?id=58
+ELTA影剧,http://108.165.240.85/jspd.php?id=59
+中天亚洲台,http://108.165.240.85/jspd.php?id=60
+中天综合,http://108.165.240.85/jspd.php?id=61
+中天娱乐,http://108.165.240.85/jspd.php?id=62
+CN卡通频道,http://108.165.240.85/jspd.php?id=65
+东森综合,http://108.165.240.85/jspd.php?id=66
+东森戏剧,http://108.165.240.85/jspd.php?id=67
+东森超视,http://108.165.240.85/jspd.php?id=68
+东森新闻,http://108.165.240.85/jspd.php?id=75
+亚洲旅游台,http://108.165.240.85/jspd.php?id=71
+ELTA体育4台,http://108.165.240.85/jspd.php?id=72
+寰宇新闻台,http://108.165.240.85/jspd.php?id=76
+TVBS,http://108.165.240.85/jspd.php?id=77
+TVBS新闻台,http://108.165.240.85/jspd.php?id=78
+三立新闻台,http://108.165.240.85/jspd.php?id=79
+中视新闻,http://108.165.240.85/jspd.php?id=80
+台视新闻,http://108.165.240.85/jspd.php?id=81
+中天新闻,http://108.165.240.85/jspd.php?id=82
+中天新闻2,http://108.165.240.85/jspd.php?id=83
+民视新闻台,http://108.165.240.85/jspd.php?id=84
+龙祥时代,http://108.165.240.85/jspd.php?id=85
+东森电影,http://108.165.240.85/jspd.php?id=86
+东森洋片,http://108.165.240.85/jspd.php?id=87
+纬来电影,http://108.165.240.85/jspd.php?id=89
+龙华戏剧,http://108.165.240.85/jspd.php?id=90
+龙华偶像,http://108.165.240.85/jspd.php?id=91
+龙华洋片,http://108.165.240.85/jspd.php?id=92
+龙华电影,http://108.165.240.85/jspd.php?id=93
+美亚电影台2,http://108.165.240.85/jspd.php?id=94
+HBO,http://108.165.240.85/jspd.php?id=95
+HBO 2,http://108.165.240.85/jspd.php?id=96
+HBO 3,http://108.165.240.85/jspd.php?id=97
+CINEMAX,http://108.165.240.85/jspd.php?id=98
+天映频道,http://108.165.240.85/jspd.php?id=104
+动物星球,http://108.165.240.85/jspd.php?id=108
+三立新闻,http://108.165.240.85/jspd.php?id=111
+千禧经典台,http://108.165.240.85/jspd.php?id=117
+凤凰中文,http://108.165.240.85/jspd.php?id=121
+凤凰资讯,http://108.165.240.85/jspd.php?id=122
+香港台,http://108.165.240.85/jspd.php?id=123
+TVB星河2,http://108.165.240.85/jspd.php?id=124
 
-私人影院,http://171.108.74.187:8181/tsfile/live/1007_1.m3u8
-天映经典电影,http://171.108.74.187:8181/tsfile/live/1008_1.m3u8
-东森洋片,http://171.108.74.187:8181/tsfile/live/1009_1.m3u8
-东森电影,http://171.108.74.187:8181/tsfile/live/1010_1.m3u8
-AXN动作电影,http://171.108.74.187:8181/tsfile/live/1011_1.m3u8
-好莱坞电影,http://171.108.74.187:8181/tsfile/live/1012_1.m3u8
-龙翔电影,http://171.108.74.187:8181/tsfile/live/1013_1.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
