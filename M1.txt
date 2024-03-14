@@ -383,12 +383,8 @@ ViU TV6,http://ali.hlspull.yximgs.com/live/0282b0ae0c5a9da40fd28056f53ec31d.flv
 RTHK31,http://ali.hlspull.yximgs.com/live/c79578eed70ddef7cc77dc7d7ad55ad9.flv
 千禧,http://ali.hlspull.yximgs.com/live/3e08f5b23d932550252a1d63f6bfc43d.flv
 RTHK32,http://ali.hlspull.yximgs.com/live/3e08f5b23d932550252a1d63f6bfc43d.flv
-千禧经典台,http://ali.hlspull.yximgs.com/live/8Iy7vrB5wPcmwBNrSVFPRXF0qzc7l28T.flv
-千禧1,http://ali.hlspull.yximgs.com/live/92239fd2b4a2caa296d4ba6a165841cf.flv
 千禧华语,http://ali.hlspull.yximgs.com/live/fad8d50e93c881d3aeef127e9a9111d3.flv
 TVB娱乐新闻台,http://ali.hlspull.yximgs.com/live/3388e0e97af012a7ea77bed7b2d2cf2c.flv
-黄金庭院,http://ali.hlspull.yximgs.com/live/4OWu7xSI304ADvCUY8cd3gowvpLikThL.flv
-NOW华剧台,http://ali.hlspull.yximgs.com/live/593ec33e0e7aacc74e9c3c3e4f40f7b5.flv
 美亚电影台,http://ali.hlspull.yximgs.com/live/c88c722db960975f00468e3f94e5a1f6.flv
 中视,http://ali.hlspull.yximgs.com/live/34cd04e55396ab8e6a2bfcf62b7cc6e8.flv
 中视新闻,http://ali.hlspull.yximgs.com/live/e0b526547593bc6ea12cb9fab04155b7.flv
