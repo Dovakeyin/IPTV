@@ -489,6 +489,8 @@ NOW财经台,http://ali.hlspull.yximgs.com/live/16cd27350adc740e674996014df2b378
 HOY香港,http://ali.hlspull.yximgs.com/live/8510152d80234d28117431f5b47613ef.flv
 HOY资讯台,http://ali.hlspull.yximgs.com/live/90f511b809347948c5967f34b35b6f02.flv
 TVBS,http://ali.hlspull.yximgs.com/live/c951550578a648cc777458f7f6cf39c2.flv
+天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
+天映经典,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
 
 港澳台（备）,#genre#
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
