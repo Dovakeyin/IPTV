@@ -1492,8 +1492,9 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 
 测试频道,#genre#
 313山东球赛,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510225431&pid=2029000133&timestamp=20240313190128&Channel_ID=0132_10010001005&ProgramID=902765644&ParentNodeID=-99&assertID=7510225431&client_ip=117.151.180.42&SecurityKey=20240313190128&promotionId=&mvid=7510112351&mcid=500020&mpid=120000496927&playurlVersion=WX-A1-7.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&puData=ccbc722661afc5871567769e572e3c5f&ddCalcu=fc5c1cb13c2e71227256e6916a7f7c655817
-
-
+HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
+HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
+功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
 
 加台联系,#genre#
 作者,#genre#
