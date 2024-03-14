@@ -377,8 +377,6 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 
 港澳台,#genre#
 翡翠台,http://ali.hlspull.yximgs.com/live/8acceacc8ac8b6d5c78b6b52af441efb.flv
-TTVBJ2,http://ali.hlspull.yximgs.com/live/d288efd2be5abfa35bdf0f3badeed5d3.flv
-TVB无线新闻台,http://ali.hlspull.yximgs.com/live/d288efd2be5abfa35bdf0f3badeed5d3.flv
 明珠台,http://ali.hlspull.yximgs.com/live/d026d980c0d0630fd43cd00fe15d3282.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/9a7f365cfda70c532348342898a8a353.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/9a7f365cfda70c532348342898a8a353.flv
