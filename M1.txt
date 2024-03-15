@@ -386,7 +386,10 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 长子综合频道,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
-临汾,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+临汾新闻综合台,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+大同新闻综合,http://v2.91kds.cn/b9/hoge.m3u8?ip=sxdttv&id=16&app=com.kaixinhd.player&version=1.3.2&mac=92:91:91:91:92&nwtime=1710474368&sign=75755e7073a6989345ca6780b301cd12&ev=20231222
+大同公共频道,http://v2.91kds.cn/b9/hoge.m3u8?ip=sxdttv&id=8&app=com.kaixinhd.player&version=1.3.2&mac=92:91:91:91:92&nwtime=1710475474&sign=718a9908e43f029248e6fb457a35079e&ev=20231222
+大同生活频道,http://v2.91kds.cn/b9/hoge.m3u8?ip=sxdttv&id=9&app=com.kaixinhd.player&version=1.3.2&mac=92:91:91:91:92&nwtime=1710475583&sign=1614f757202565ce745812686843e593&ev=20231222
 
 吉林,#genre#
 吉林影视,http://124.235.218.197:30007/udp/239.37.1.3:5540
