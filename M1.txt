@@ -222,12 +222,9 @@ CGTN.http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000613/index.m
 海峡卫视,http://123.184.27.215/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8
 
 特色频道,#genre#
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 1905国内电影,http://lc.ysgtv.top/live/gdd66.php?id=1905b
@@ -389,6 +386,7 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 临汾新闻综合台,http://live1.lfgdw.cn/linfenjia/linfenjia.m3u8?auth_key=1679224685-0-0-b304f7f52330cf0a9c9f850ab474ebb5
 临汾公共频道,http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
 临汾科教频道,http://live.lfgdw.cn/lfj3/lfj3.m3u8?auth_key=1737526481-0-0-be06f75904e895e6e6e956a60a61476d
+襄汾综合频道,http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
 
 吉林,#genre#
 吉林影视,http://124.235.218.197:30007/udp/239.37.1.3:5540
