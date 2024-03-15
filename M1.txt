@@ -66,18 +66,13 @@ CCTV-17,http://110.72.75.49:808/hls/98/index.m3u8
 安多卫视,http://110.72.75.49:808/hls/4/index.m3u8
 凤凰卫视,http://110.72.75.49:808/hls/62/index.m3u8
 凤凰资讯,http://110.72.75.49:808/hls/63/index.m3u8
-香港音乐,http://110.72.75.49:808/hls/64/index.m3u8
-CCTV-娱乐,http://110.72.75.49:808/hls/66/index.m3u8
 凤凰中文HD,http://110.72.75.49:808/hls/83/index.m3u8
 香港卫视HD,http://110.72.75.49:808/hls/333/index.m3u8
 东方海外,http://110.72.75.49:808/hls/69/index.m3u8
 广西公共,http://110.72.75.49:808/hls/202/index.m3u8
 广西都市,http://110.72.75.49:808/hls/204/index.m3u8
 广西新闻,http://110.72.75.49:808/hls/206/index.m3u8
-法治天地,http://110.72.75.49:808/hls/207/index.m3u8
-游戏风云,http://110.72.75.49:808/hls/215/index.m3u8
-魅力时尚,http://110.72.75.49:808/hls/219/index.m3u8
-经典电影,http://110.72.75.49:808/hls/220/index.m3u8
+
 
 移动央卫,#genre#
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -279,6 +274,12 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 金色学堂 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
 中国电影,http://110.72.75.49:808/hls/61/index.m3u8
 中国电影2,http://110.72.75.49:808/hls/65/index.m3u8
+香港音乐,http://110.72.75.49:808/hls/64/index.m3u8
+CCTV-娱乐,http://110.72.75.49:808/hls/66/index.m3u8
+法治天地,http://110.72.75.49:808/hls/207/index.m3u8
+游戏风云,http://110.72.75.49:808/hls/215/index.m3u8
+魅力时尚,http://110.72.75.49:808/hls/219/index.m3u8
+经典电影,http://110.72.75.49:808/hls/220/index.m3u8
 
 地方台,#genre#
 上海新视觉,http://php.jdshipin.com:8880/bst.php?id=xsj
@@ -371,7 +372,6 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 山西社会与法治,http://live.qiyuevod.com/tyoetv/titv.php?id=sxshfz
 山西文体生活,http://live.qiyuevod.com/tyoetv/titv.php?id=sxwtsh
 山西黄河,http://live.qiyuevod.com/tyoetv/titv.php?id=sxhh
-大宁综合,http://live.daningtv.com/channel1/sd/live.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8
 怀柔电视,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
@@ -389,9 +389,6 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 临汾新闻综合台,http://live1.lfgdw.cn/linfenjia/linfenjia.m3u8?auth_key=1679224685-0-0-b304f7f52330cf0a9c9f850ab474ebb5
 临汾公共频道,http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
 临汾科教频道,http://live.lfgdw.cn/lfj3/lfj3.m3u8?auth_key=1737526481-0-0-be06f75904e895e6e6e956a60a61476d
-大同新闻综合,http://v2.91kds.cn/b9/hoge.m3u8?ip=sxdttv&id=16&app=com.kaixinhd.player&version=1.3.2&mac=92:91:91:91:92&nwtime=1710474368&sign=75755e7073a6989345ca6780b301cd12&ev=20231222
-大同公共频道,http://v2.91kds.cn/b9/hoge.m3u8?ip=sxdttv&id=8&app=com.kaixinhd.player&version=1.3.2&mac=92:91:91:91:92&nwtime=1710475474&sign=718a9908e43f029248e6fb457a35079e&ev=20231222
-大同生活频道,http://v2.91kds.cn/b9/hoge.m3u8?ip=sxdttv&id=9&app=com.kaixinhd.player&version=1.3.2&mac=92:91:91:91:92&nwtime=1710475583&sign=1614f757202565ce745812686843e593&ev=20231222
 
 吉林,#genre#
 吉林影视,http://124.235.218.197:30007/udp/239.37.1.3:5540
