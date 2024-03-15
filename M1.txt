@@ -214,7 +214,7 @@ CGTN.http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000613/index.m
 特色频道,#genre#
 CHC高清电影,http://gzly.hkychina.com:6001/udp/239.252.219.83:5140
 CHC家庭影院,http://gzly.hkychina.com:6001/udp/239.252.219.84:5140
-CHC动作影院,http://gzly.hkychina.com:6001/udp/239.252.219.85:5140
+CHC动作电影,http://gzly.hkychina.com:6001/udp/239.252.219.85:5140
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
