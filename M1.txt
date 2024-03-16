@@ -419,15 +419,25 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 襄汾综合频道,http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
 
 吉林,#genre#
-吉林影视,http://124.235.218.197:30007/udp/239.37.1.3:5540
-吉林生活,http://124.235.218.197:30007/udp/239.37.1.4:5540
-吉林都市,http://124.235.218.197:30007/udp/239.37.1.2:5540
-吉林乡村,http://124.235.218.197:30007/udp/239.37.1.5:5540
-吉林7频道,http://124.235.218.197:30007/udp/239.37.1.7:5540
-吉林公共·新闻,http://124.235.218.197:30007/udp/239.37.1.6:5540
-吉林篮球,http://124.235.218.197:30007/udp/239.37.1.8:5540
-吉林东北戏曲,http://124.235.218.197:30007/udp/239.37.1.9:5540
-长影频道,http://124.235.218.197:30007/udp/239.37.0.125:5540
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+延边-2,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
+龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+
 
 河南,#genre#
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
