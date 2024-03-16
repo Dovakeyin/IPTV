@@ -1447,7 +1447,7 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 测试频道,#genre#
 
 
-加台联系,#genre#
+交流联系,#genre#
 作者,#genre#
 大笨梦,#genre#
 QQ群,#genre#
