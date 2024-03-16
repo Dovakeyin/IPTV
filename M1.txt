@@ -815,6 +815,21 @@ ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 咪咕精彩足球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 天津体育,http://111.160.17.2:59901/tsfile/live/0141_1.m3u8?key=txiptv
+睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
+睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
+睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+NOW sps,http://202.21.104.6:88/sps-plus/index.m3u8
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?
+F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+IMPACT Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+先锋乒羽,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
 
 咪咕直播,#genre#
 咪咕直播-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
