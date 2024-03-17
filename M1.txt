@@ -1573,7 +1573,7 @@ yy-电影7,http://mmitv.top/pltv/yy.php?id=24066336
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 
 测试频道,#genre#
-
+CCTV-8K超高清,http://124.71.72.96:633/9636/d.php?id=cctv8k
 
 交流联系,#genre#
 作者,#genre#
