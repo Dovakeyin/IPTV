@@ -371,6 +371,18 @@ IPTV法治,http://113.251.84.14:5555/rtp/235.254.198.120:1756
 深圳东部,http://nas147.myds.me:8888/udp/239.77.1.224:5146
 深圳众创TV,http://nas147.myds.me:8888/udp/239.77.1.247:5146
 
+广西,#genre#
+贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+灌阳新闻综合,https://lives.myun.tv:443/live/lx1reyg0.m3u8
+资源电视台,https://rtmp.gdlive.gdmain.com:443/live/5z4yjgm0.m3u8
+宾阳综合,https://rtmp.gdlive.gdmain.com:443/live/lgmzjyml.m3u8
+巴马综合,https://rtmp.gdlive.gdmain.com:443/live/028exb80.m3u8
+都安综合,https://lives.myun.tv:443/live/09em42ol.m3u8
+东兰综合,https://rtmp.gdlive.gdmain.com:443/live/09aony85.m3u8
+罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
+
 山东,#genre#
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
