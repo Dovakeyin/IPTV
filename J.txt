@@ -298,6 +298,10 @@ iHOT,#genre#
 咪咕直播-41,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
+港澳台,#genre#
+翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
+明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
+
 作者,#genre#
 大笨梦,#genre#
 QQ群,#genre#
