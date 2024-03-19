@@ -675,6 +675,7 @@ EZTV 6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 中天新闻2,http://ser683998257480.xg.gptapp.ren/youcn2.php?id=WPfPjbOLNfE
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+三立台湾,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
 now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 美亚电影台(国),mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
@@ -1567,6 +1568,7 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 
 测试频道,#genre#
 CCTV-8K超高清,http://124.71.72.96:633/9636/d.php?id=cctv8k
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 交流联系,#genre#
 作者,#genre#
