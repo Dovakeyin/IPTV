@@ -670,6 +670,21 @@ ABC Phoenix,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1233
 Mega TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/124
 
 韩国频道,#genre#
+EBS,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+EBS_E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/playlist.m3u8
+EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+HotPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+BBS广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+江原岭东MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
