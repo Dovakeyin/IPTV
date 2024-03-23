@@ -423,6 +423,7 @@ QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 吉林综艺,http://119.51.54.195:9901/tsfile/live/1003_1.m3u8
 松原公共,http://119.51.54.195:9901/tsfile/live/1004_1.m3u8
 长影频道,http://119.51.54.195:9901/tsfile/live/1006_1.m3u8
+东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 YBTV-1,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
