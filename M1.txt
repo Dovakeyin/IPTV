@@ -1388,11 +1388,16 @@ yy-电影7,http://mmitv.top/pltv/yy.php?id=24066336
 好消息,https://epg.pw/stream/e3823ebcbb226f0ca9bf92c0d893109277baef872c9ba9a6d4f60078318770a1.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 测试频道,#genre#
-CCTV-8K超高清,http://124.71.72.96:633/9636/d.php?id=cctv8k
-创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-三立台湾,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+Now星影台,http://ali.hlspull.yximgs.com/live/nowxyyt3a8822l300-dsgbkBDLDldNL.flv
+Now爆谷台,http://ali.hlspull.yximgs.com/live/nowbggt3a8822l300-dsgbkBDLDldNL.flv
+Now新闻台,http://ali.hlspull.yximgs.com/live/nowxwrrrt3a8822l300-dsgbkBDLDldNL.flv
+Now财经台,http://ali.hlspull.yximgs.com/live/nowcjjjjt3a8822l300-dsgbkBDLDldNL.flv
+Now Sports英超,http://ali.hlspull.yximgs.com/live/nowyct3a8822l300-dsgbkBDLDldNL.flv
+TVB功夫台(粵),http://ali.hlspull.yximgs.com/live/gfyyt3a8822l300-dsgbkBDLDldNL.flv
+美亚电影(粤),http://ali.hlspull.yximgs.com/live/mydyt3a8822l300-dsgbkBDLDldNL.flv
 
 交流联系,#genre#
 作者,#genre#
