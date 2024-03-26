@@ -517,7 +517,7 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 mitv港澳台,#genre#
 TVB 翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
-TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+TVB 明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 华丽翡翠台,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 Viu TVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 Viu TV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
