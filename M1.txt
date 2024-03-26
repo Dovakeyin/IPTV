@@ -512,8 +512,15 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 亞太第一衛視綜合,http://play2.one-tv.com/live/onetv.m3u8
 
 mitv港澳台,#genre#
+TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+华丽翡翠台,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+Viu TVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
+Viu TV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
+HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
+HOY 资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVB功夫,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
+爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
 澳门-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳门莲花,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
 大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -549,6 +556,7 @@ TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5
 now财经台,mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
 TVB星河(粤),mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+GEM,mitv://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
 
 日本专区,#genre#
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
