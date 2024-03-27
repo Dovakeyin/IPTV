@@ -1096,7 +1096,7 @@ Q群,https://
 灌篮高手电影版TC,https://vip1.lz-cdn1.com/20230507/20988_3d1da82b/2000k/hls/mixed.m3u8
 熊出没·伴我熊芯,https://hd.lz-cdn18.com/20230416/1902_adf3668b/2000k/hls/mixed.m3u8#https://hd.lz-cdn18.com/20230416/1902_adf3668b/index.m3u8#https://ukzyvod3.ukubf5.com/20230416/RQv7Npdz/2000kb/hls/index.m3u8#https://ukzyvod3.ukubf5.com/20230416/RQv7Npdz/index.m3u8
 深海,https://vip1.lz-cdn1.com/20230324/20760_c088369d/1800k/hls/mixed.m3u8#https://vip1.lz-cdn1.com/20230324/20760_c088369d/index.m3u8
-魔术师的大象https://vip.lz-cdn3.com/20230318/18175_6ae56259/1800k/hls/mixed.m3u8#https://vip.lz-cdn3.com/20230318/18175_6ae56259/index.m3u8
+魔术师的大象,https://vip.lz-cdn3.com/20230318/18175_6ae56259/1800k/hls/mixed.m3u8#https://vip.lz-cdn3.com/20230318/18175_6ae56259/index.m3u8
 
 电影轮播,#genre#
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
